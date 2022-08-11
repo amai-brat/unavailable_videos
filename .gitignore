@@ -1,0 +1,4 @@
+*__pycache__*
+playlist_*
+geckodriver.log
+venv
